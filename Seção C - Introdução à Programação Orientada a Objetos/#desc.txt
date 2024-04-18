@@ -1,0 +1,5 @@
+📚 livros de referência: 
+    -> 🐘 PHP Programando com Orientação a Objetos
+    -> 🦎 Python Fluente
+    -> 🔄️ Padrões de projeto soluções reutilizáveis - GOF
+    -> 👨🏽‍💼 Patterns of enterprise application architecture
