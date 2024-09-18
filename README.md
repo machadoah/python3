@@ -6,10 +6,6 @@ Este repositório contém meus estudos e práticas do curso [Python 3: Do Zero a
 
 O curso "Python 3: Do Zero ao Avançado" é uma jornada completa para aprender Python, desde os conceitos básicos até tópicos avançados. Este repositório serve como um registro dos exercícios, projetos e anotações feitos ao longo do curso.
 
-<!-- ## Estrutura do Repositório
-
-... -->
-
 
 ## Como Utilizar Este Repositório
 
@@ -21,8 +17,6 @@ O curso "Python 3: Do Zero ao Avançado" é uma jornada completa para aprender P
     ```sh
     cd python3
     ```
-
-<!-- 3. **Siga as instruções em cada arquivo Markdown (.md) para executar os exercícios e projetos**. -->
 
 ## Tecnologias Utilizadas
 
