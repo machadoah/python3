@@ -5,7 +5,7 @@
 # not True = False
 # not False = True
 
-senha = input('Senha: ')
+senha = input("Senha: ")
 print(not senha)
 
 print(not True)  # False
