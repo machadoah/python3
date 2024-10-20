@@ -11,21 +11,34 @@ Por padrão, funções Python retornam None (nada).
 """
 
 
-# def Python():
-#     print('Várias')
+def Print_v1():
+    print("Várias")
 
 
-# Python()
-# Python()
-# Python()
-# Python()
+# Imprimindo Várias 3x
+Print_v1()
+Print_v1()
+Print_v1()
 
 
 def imprimir(a, b, c):
-    print("Várias")
+    print("Eu")
 
 
 # imprimir()
 # TypeError: imprimir() missing 3 required positional arguments: 'a', 'b', and 'c'
 
+# Sendo assim, os parametros que uma função possui, devem ser obrigatoriamente passados!
+
 imprimir(1, 2, 3)
+
+
+def saudacao(nome="Sem nome"):
+    # Sem nome representa o valor padrão
+    print(f"Olá, {nome}")
+
+
+saudacao("Antonio")
+
+# Posso chamar sem nenhum argumento, pois existe uma valor padrão definido.
+saudacao()
